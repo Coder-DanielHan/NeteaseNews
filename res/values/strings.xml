@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NeteaseNews</string>
+	<string name="news">新闻</string>
+	<string name="read">阅读</string>
+	<string name="watch">试听</string>
+	<string name="find">发现</string>
+	<string name="me">我</string>
+	<string name="change_column">切换栏目</string>
+	<string name="long_touch">长按排序或删除</string>
+</resources>
